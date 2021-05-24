@@ -4,7 +4,6 @@ Download all the file and play "YouTubeChatBlock(Alpha)"
 *This version is still unstable, use it carefully!
 
 ## How to setup: ##
-### 1.Get YouTube API key ###
 ![投影片2](https://user-images.githubusercontent.com/42707843/118356874-d904c100-b5a9-11eb-8b7a-e57de0f0f300.JPG)
 ![投影片3](https://user-images.githubusercontent.com/42707843/118356876-db671b00-b5a9-11eb-9025-1aa5854f89ba.JPG)
 ![投影片4](https://user-images.githubusercontent.com/42707843/118356878-dc984800-b5a9-11eb-90a8-992df484c16d.JPG)
@@ -18,7 +17,7 @@ Download all the file and play "YouTubeChatBlock(Alpha)"
 ![投影片12](https://user-images.githubusercontent.com/42707843/118356898-e8840a00-b5a9-11eb-83e0-8302c1410d35.JPG)
 ![投影片13](https://user-images.githubusercontent.com/42707843/118357214-80cebe80-b5ab-11eb-9285-a3b9acbb0165.JPG)
 
-### 2.Find "Video ID" ###
+## Find "Video ID" ##
 ![投影片2](https://user-images.githubusercontent.com/42707843/118357102-fc7c3b80-b5aa-11eb-9501-5dfa18888b5e.JPG)
 ![投影片3](https://user-images.githubusercontent.com/42707843/118357104-fdad6880-b5aa-11eb-8f56-73a393a19ab8.JPG)
 ![投影片4](https://user-images.githubusercontent.com/42707843/118357108-000fc280-b5ab-11eb-940c-1d6faeaa7149.JPG)
