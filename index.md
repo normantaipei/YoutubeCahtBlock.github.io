@@ -1,7 +1,8 @@
 # YouTubeChatBlock
 Alpha1.5  
-[Download WIN10](https://github.com/normantaipei/YouTubeChatBlock)  
-[Download MAC](https://github.com/normantaipei/YouTubeChatBlock_mac)  
+[Download for WIN10](https://github.com/normantaipei/YouTubeChatBlock)  
+[Download for MAC](https://github.com/normantaipei/YouTubeChatBlock_mac)  
+[Download for Linux](https://github.com/normantaipei/YouTubeChatBlock_Linux)  
 Download all the file and play "YouTubeChatBlock(Alpha)"  
 
 ## How to setup: ##
