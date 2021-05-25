@@ -1,6 +1,6 @@
 # YouTubeChatBlock
 Alpha1.5  
-https://github.com/normantaipei/YouTubeChatBlock  
+[Download](https://github.com/normantaipei/YouTubeChatBlock)  
 Download all the file and play "YouTubeChatBlock(Alpha)"  
 *This version is still unstable, use it carefully!
 
