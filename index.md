@@ -5,6 +5,9 @@ Alpha1.5
 [Download for Linux](https://github.com/normantaipei/YouTubeChatBlock_Linux)  
 Download all the file and play "YouTubeChatBlock(Alpha)"  
 
+## DEMO Video ##
+[![image](https://user-images.githubusercontent.com/42707843/119603212-55f03000-be1f-11eb-8235-bbd20f27f3ed.png)](https://twitter.com/HsiaoNorman/status/1391706816913027073?s=20)
+
 ## How to setup: ##
 ![投影片2](https://user-images.githubusercontent.com/42707843/118356874-d904c100-b5a9-11eb-8b7a-e57de0f0f300.JPG)
 ![投影片3](https://user-images.githubusercontent.com/42707843/118356876-db671b00-b5a9-11eb-9025-1aa5854f89ba.JPG)
