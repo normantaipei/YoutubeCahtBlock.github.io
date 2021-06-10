@@ -10,6 +10,10 @@ Download all the file and play "YouTubeChatBlock(Alpha)"
 
 ## How to setup: ##
 ![投影片2](https://user-images.githubusercontent.com/42707843/118356874-d904c100-b5a9-11eb-8b7a-e57de0f0f300.JPG)
+open google cloud platform website: https://cloud.google.com/  
+choose "Console"  
+![image](https://user-images.githubusercontent.com/42707843/121449147-cd9b8e80-c9cb-11eb-9a60-cc8325d14fc2.png)
+create a project  
 ![投影片3](https://user-images.githubusercontent.com/42707843/118356876-db671b00-b5a9-11eb-9025-1aa5854f89ba.JPG)
 ![投影片4](https://user-images.githubusercontent.com/42707843/118356878-dc984800-b5a9-11eb-90a8-992df484c16d.JPG)
 ![投影片5](https://user-images.githubusercontent.com/42707843/118356880-defaa200-b5a9-11eb-8e18-98ffafe2316a.JPG)
